@@ -4,8 +4,8 @@ http://localhost:3000/alunos
 */
 
 import express from "express"
-import Aluno from "./Alunos.js"
 const print = console.log
+import Aluno from "Alunos.js"
 
 const Aluno1 = new Alunos(
     1,
