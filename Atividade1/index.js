@@ -3,8 +3,6 @@ http://localhost:3000/
 */
 
 import express from "express"
-import Aluno from "./Alunos.js"
-import Alunos from "./Alunos.js"
 const print = console.log
 
 const Aluno1 = new Alunos(
