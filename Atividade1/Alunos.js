@@ -7,5 +7,4 @@ class Alunos {
         this.hobby = hobby
     }
 }
-
 export default Alunos
